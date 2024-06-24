@@ -1,0 +1,14 @@
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/bin/Debug/net8.0/MoreNumericTypes
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/bin/Debug/net8.0/MoreNumericTypes.deps.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/bin/Debug/net8.0/MoreNumericTypes.runtimeconfig.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/bin/Debug/net8.0/MoreNumericTypes.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/bin/Debug/net8.0/MoreNumericTypes.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/MoreNumericTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/MoreNumericTypes.AssemblyInfoInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/MoreNumericTypes.AssemblyInfo.cs
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/MoreNumericTypes.csproj.CoreCompileInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/MoreNumericTypes.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/refint/MoreNumericTypes.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/MoreNumericTypes.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/MoreNumericTypes.genruntimeconfig.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/MoreNumericTypes/obj/Debug/net8.0/ref/MoreNumericTypes.dll
