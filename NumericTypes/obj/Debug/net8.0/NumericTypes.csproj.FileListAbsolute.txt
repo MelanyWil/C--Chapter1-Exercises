@@ -1,0 +1,14 @@
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/bin/Debug/net8.0/NumericTypes
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/bin/Debug/net8.0/NumericTypes.deps.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/bin/Debug/net8.0/NumericTypes.runtimeconfig.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/bin/Debug/net8.0/NumericTypes.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/bin/Debug/net8.0/NumericTypes.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/NumericTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/NumericTypes.AssemblyInfoInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/NumericTypes.AssemblyInfo.cs
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/NumericTypes.csproj.CoreCompileInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/NumericTypes.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/refint/NumericTypes.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/NumericTypes.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/NumericTypes.genruntimeconfig.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Exercises/NumericTypes/obj/Debug/net8.0/ref/NumericTypes.dll
